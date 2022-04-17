@@ -3,3 +3,7 @@ h1{
     color: white;
     border: 1px solid blue;
 }
+p{
+    text-align: justify;
+    font-family: comic sans-serif;
+}
